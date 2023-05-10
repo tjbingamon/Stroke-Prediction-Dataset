@@ -1,4 +1,4 @@
-# Stroke-Prediction-Dataset
+# Stroke Prediction Dataset
 
 # Data Source
 
