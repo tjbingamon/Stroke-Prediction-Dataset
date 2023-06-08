@@ -32,16 +32,23 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 - Self-Employed adults have the highest level of glucose
 
 # Machine Learning Using Models
-
+- KNN
+- Random Forest
+- Logistic Regression
 
 # Evaluations of Models and their Results:
 KNN 
 ![download (6)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/9830289b-3a87-4ee2-a3c1-f41b4a36e1df)
+![download (9)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/51ad34df-8334-43c2-a50d-3cd98fc04794)
 
 Random Forest
 ![download (7)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/eeb26ac2-a204-4def-9e28-23b9b034028e)
+![download (10)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/50b93cde-f510-4649-93b7-ac108580fd22)
 
 Logistic Regression
 ![download (8)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/9ceae390-8402-4e41-8007-3d9cf3d1cf53)
+![download (11)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/92592693-ebaa-4d09-8855-972681ad53b6)
 
 # Evaluations and Recommendations
+- The best model overall is Tuned Random Forest using Feature Engineering and PCA
+- Recall is at 84% 
