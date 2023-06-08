@@ -12,9 +12,9 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 ![download (1)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/388d5c6a-49b3-40a7-ad56-b5daa4f2ea89)
 - Stroke and BMI have the strongest correlation with 0.42
 
-[download (2)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/65d02d2a-d335-4ec4-9766-c36af1b7facd)
+![download (2)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/47eb7223-66cb-4ca0-af2b-3ce2a27031e2)
 
-# Explanatory Data Analysis!
+# Explanatory Data Analysis
 
 
 
