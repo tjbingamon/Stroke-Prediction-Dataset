@@ -16,13 +16,32 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 # Explanatory Data Analysis
 
+![download (3)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/e8d7f5dd-8302-4d54-9c97-300485efd007)
+-Patients between the age of 50-80 years old are at greater risk of getting a stroke.
 
+![download (4)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/9ea5fb95-5c5c-4ea4-82ba-16a6212347d5)
+- Our first three columns show high glucose levels, while children have the lowest.
 
+![download (5)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/a5da931e-072d-43af-b718-ce93b711cc21)
+- Our first three columns show high glucose levels, while children have the lowest.
 
 # Key Insights
 
-# Machine Learning Using Models:
+- Patients with higher BMI are more likely to get a stroke
+- 50-80 is the age group with highest chance of stroke.
+- Self-Employed adults have the highest level of glucose
+
+# Machine Learning Using Models
+
 
 # Evaluations of Models and their Results:
+KNN 
+![download (6)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/9830289b-3a87-4ee2-a3c1-f41b4a36e1df)
+
+Random Forest
+![download (7)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/eeb26ac2-a204-4def-9e28-23b9b034028e)
+
+Logistic Regression
+![download (8)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/9ceae390-8402-4e41-8007-3d9cf3d1cf53)
 
 # Evaluations and Recommendations
