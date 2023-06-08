@@ -1,4 +1,5 @@
 # Stroke Prediction Dataset
+![download](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/7925dab7-c1d6-4098-a7f0-a1cbce60de89)
 
 # Data Source
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
