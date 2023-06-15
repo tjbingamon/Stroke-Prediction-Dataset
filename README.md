@@ -18,6 +18,7 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 # Explanatory Data Analysis
 
 ![download (3)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/e8d7f5dd-8302-4d54-9c97-300485efd007)
+
 -Patients between the age of 50-80 years old are at greater risk of getting a stroke.
 
 ![download (4)](https://github.com/tjbingamon/Stroke-Prediction-Dataset/assets/127987424/9ea5fb95-5c5c-4ea4-82ba-16a6212347d5)
